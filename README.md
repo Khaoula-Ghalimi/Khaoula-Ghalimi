@@ -51,14 +51,7 @@ I work across both backend and frontend, with a strong love for automation, clea
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Khaoula-Ghalimi&show_icons=true&theme=tokyonight&rank_icon=github" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaoula-Ghalimi&layout=compact&theme=tokyonight" 
-    height="165"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaoula-Ghalimi&theme=tokyonight&border_radius=15&sideNums=70A5FD&sideLabels=F75C7E" height="230"/>
 </p>
 
  ## 🔥 **Contribution Graph**
