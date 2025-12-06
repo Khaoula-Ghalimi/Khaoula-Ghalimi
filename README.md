@@ -16,6 +16,8 @@ I work across both backend and frontend, with a strong love for automation, clea
 - ✨ Currently working on:
   - A translation project using GEMINI API as the translator
   - A schoolbus map management system
+  - A smartcrop app using sam2
+  - My portfolio website
 
 ## 🛠️ **Tech Stack**
 
